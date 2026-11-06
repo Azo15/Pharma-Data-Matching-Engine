@@ -1,5 +1,5 @@
 # Contributing to Pharma Record Linkage
-
+  
 Thank you for considering contributing! 
 
 ## How to Contribute
