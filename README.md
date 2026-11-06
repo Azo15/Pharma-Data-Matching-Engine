@@ -1,4 +1,4 @@
-# 💊 İlaç Veri Setleri Eşleştirme (Record Linkage) & Pharma Matching Engine
+# 💊 İlaç Veri Setleri Eşleştirme (Record Linkage) & Pharma Matching Engine 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
